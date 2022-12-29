@@ -1,0 +1,40 @@
+img{
+  width:80%;
+}
+h1{
+  color:yellow;
+  font-style: italic;
+  font-size:90px;
+}
+.dice1{
+  color:yellow;
+  text-align: center;
+  display: inline-block;
+
+
+}
+.dice2{
+  color:yellow;
+  text-align: center;
+    display: inline-block;
+
+
+}
+.boat{
+
+  background-image:url("bg4.jpg");
+  background-size: cover;
+  background-size: contain;
+  min-height: 100vh;
+
+}
+.heading{
+  text-align: center;
+}
+footer
+{
+    color:limegreen;
+    text-align: center;
+    font-size:30px;
+    font-style: italic;
+}
