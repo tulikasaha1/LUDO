@@ -1,10 +1,10 @@
 var randomno1=Math.floor(Math.random()*6)+1;
-var dice_image1="images/"+"dice"+randomno1+".png";//images.dice1.png-dice6.png
+var dice_image1="dice"+randomno1+".png";//images.dice1.png-dice6.png
 var image1=document.querySelectorAll("img")[0];
 image1.setAttribute("src",dice_image1);
 
 var randomno2=Math.floor(Math.random()*6)+1;
-var dice_image2="images/"+"dice"+randomno2+".png";//images.dice1.png-dice6.png
+var dice_image2="dice"+randomno2+".png";//images.dice1.png-dice6.png
 var image2=document.querySelectorAll("img")[1];
 image2.setAttribute("src",dice_image2);
 
